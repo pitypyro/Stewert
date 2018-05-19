@@ -1,131 +1,381 @@
 #EXTM3U
-#EXTINF:-1,Us- NEWS 12
-http://linux-app.tv:8080/live/kkk/kkk/10218.ts
-#EXTINF:-1,Us- ABC US
-http://linux-app.tv:8080/live/kkk/kkk/9809.ts
-#EXTINF:-1,Us- Animal Planet HD
-http://linux-app.tv:8080/live/kkk/kkk/9808.ts
-#EXTINF:-1,Us- BBC AMERICA HD
-http://linux-app.tv:8080/live/kkk/kkk/9807.ts
-#EXTINF:-1,Us- BIG TEN
-http://linux-app.tv:8080/live/kkk/kkk/9806.ts
-#EXTINF:-1,Us- Bloomberg US
-http://linux-app.tv:8080/live/kkk/kkk/9805.ts
-#EXTINF:-1,Us- Bravo HD
-http://linux-app.tv:8080/live/kkk/kkk/9804.ts
-#EXTINF:-1,Us- Cartoon Network US
-http://linux-app.tv:8080/live/kkk/kkk/9803.ts
-#EXTINF:-1,Us- CBS Sport HD
-http://linux-app.tv:8080/live/kkk/kkk/9802.ts
-#EXTINF:-1,Us- CBS US
-http://linux-app.tv:8080/live/kkk/kkk/9801.ts
-#EXTINF:-1,Us- CINEMAX HD
-http://linux-app.tv:8080/live/kkk/kkk/9800.ts
-#EXTINF:-1,Us- CINEMAX THRILLERMAX HD
-http://linux-app.tv:8080/live/kkk/kkk/9799.ts
-#EXTINF:-1,Us- CNBC US
-http://linux-app.tv:8080/live/kkk/kkk/9798.ts
-#EXTINF:-1,Us- CNN US HD
-http://linux-app.tv:8080/live/kkk/kkk/9797.ts
-#EXTINF:-1,Us- Comedy Central HD
-http://linux-app.tv:8080/live/kkk/kkk/9796.ts
-#EXTINF:-1,Us- Cooking channel HD
-http://linux-app.tv:8080/live/kkk/kkk/9795.ts
-#EXTINF:-1,Us- Discovery Channel US HD
-http://linux-app.tv:8080/live/kkk/kkk/9794.ts
-#EXTINF:-1,Us- DISCOVERY FAMILY
-http://linux-app.tv:8080/live/kkk/kkk/9793.ts
-#EXTINF:-1,Us- Discovery Investigation
-http://linux-app.tv:8080/live/kkk/kkk/9792.ts
-#EXTINF:-1,Us- Discovery Science US HD
-http://linux-app.tv:8080/live/kkk/kkk/9791.ts
-#EXTINF:-1,Us- Disney Channel US
-http://linux-app.tv:8080/live/kkk/kkk/9790.ts
-#EXTINF:-1,Us- Disney Junior US
-http://linux-app.tv:8080/live/kkk/kkk/9789.ts
-#EXTINF:-1,Us- E! Entertainment US
-http://linux-app.tv:8080/live/kkk/kkk/9788.ts
-#EXTINF:-1,Us- FOX Business Network
-http://linux-app.tv:8080/live/kkk/kkk/9787.ts
-#EXTINF:-1,Us- Fox sport 1 HD
-http://linux-app.tv:8080/live/kkk/kkk/9786.ts
-#EXTINF:-1,Us- Fox sport 2 HD
-http://linux-app.tv:8080/live/kkk/kkk/9785.ts
-#EXTINF:-1,Us- FX HD
-http://linux-app.tv:8080/live/kkk/kkk/9784.ts
-#EXTINF:-1,Us- FYI HD
-http://linux-app.tv:8080/live/kkk/kkk/9783.ts
-#EXTINF:-1,Us- GSN HD
-http://linux-app.tv:8080/live/kkk/kkk/9782.ts
-#EXTINF:-1,Us- HBO Comedy HD
-http://linux-app.tv:8080/live/kkk/kkk/9781.ts
-#EXTINF:-1,Us- HBO Signature
-http://linux-app.tv:8080/live/kkk/kkk/9780.ts
-#EXTINF:-1,Us- HBO US HD
-http://linux-app.tv:8080/live/kkk/kkk/9779.ts
-#EXTINF:-1,Us- HBO ZONE HD
-http://linux-app.tv:8080/live/kkk/kkk/9778.ts
-#EXTINF:-1,Us- HGTV HD
-http://linux-app.tv:8080/live/kkk/kkk/9777.ts
-#EXTINF:-1,Us- History
-http://linux-app.tv:8080/live/kkk/kkk/9776.ts
-#EXTINF:-1,Us- History HD US
-http://linux-app.tv:8080/live/kkk/kkk/9775.ts
-#EXTINF:-1,Us- Life Time HD
-http://linux-app.tv:8080/live/kkk/kkk/9774.ts
-#EXTINF:-1,Us- MTV HD US
-http://linux-app.tv:8080/live/kkk/kkk/9773.ts
-#EXTINF:-1,Us- Nat Geo Wild HD US
-http://linux-app.tv:8080/live/kkk/kkk/9772.ts
-#EXTINF:-1,Us- NatGeo HD USA
-http://linux-app.tv:8080/live/kkk/kkk/9771.ts
-#EXTINF:-1,Us- NBA HD
-http://linux-app.tv:8080/live/kkk/kkk/9770.ts
-#EXTINF:-1,Us- NBC EAST HD
-http://linux-app.tv:8080/live/kkk/kkk/9769.ts
-#EXTINF:-1,Us- NBCSN HD
-http://linux-app.tv:8080/live/kkk/kkk/9768.ts
-#EXTINF:-1,Us- Nick Junior US
-http://linux-app.tv:8080/live/kkk/kkk/9767.ts
-#EXTINF:-1,Us- Nick Toons US
-http://linux-app.tv:8080/live/kkk/kkk/9766.ts
-#EXTINF:-1,Us- OWN HD
-http://linux-app.tv:8080/live/kkk/kkk/9765.ts
-#EXTINF:-1,Us- SEC NETWORK HD
-http://linux-app.tv:8080/live/kkk/kkk/9764.ts
-#EXTINF:-1,Us- SHOWTIME FAMILY ZONE
-http://linux-app.tv:8080/live/kkk/kkk/9763.ts
-#EXTINF:-1,Us- SLICE HD
-http://linux-app.tv:8080/live/kkk/kkk/9762.ts
-#EXTINF:-1,Us- Space US
-http://linux-app.tv:8080/live/kkk/kkk/9761.ts
-#EXTINF:-1,Us- Starz HD US
-http://linux-app.tv:8080/live/kkk/kkk/9760.ts
-#EXTINF:-1,Us- STARZ KIDS & Family HD
-http://linux-app.tv:8080/live/kkk/kkk/9759.ts
-#EXTINF:-1,Us- Syfy HD
-http://linux-app.tv:8080/live/kkk/kkk/9758.ts
-#EXTINF:-1,Us- SyFy HD USA
-http://linux-app.tv:8080/live/kkk/kkk/9757.ts
-#EXTINF:-1,Us- TBS USA
-http://linux-app.tv:8080/live/kkk/kkk/9756.ts
-#EXTINF:-1,Us- TLC HD
-http://linux-app.tv:8080/live/kkk/kkk/9755.ts
-#EXTINF:-1,Us- TNT US
-http://linux-app.tv:8080/live/kkk/kkk/9754.ts
-#EXTINF:-1,Us- TRU TV HD
-http://linux-app.tv:8080/live/kkk/kkk/9753.ts
-#EXTINF:-1,Us- TV Land HD
-http://linux-app.tv:8080/live/kkk/kkk/9752.ts
-#EXTINF:-1,Us- Velocity HD
-http://linux-app.tv:8080/live/kkk/kkk/9751.ts
-#EXTINF:-1,Us- VH1 HD US
-http://linux-app.tv:8080/live/kkk/kkk/9750.ts
-#EXTINF:-1,Us- Viceland TV
-http://linux-app.tv:8080/live/kkk/kkk/9749.ts
-#EXTINF:-1,Us- WE HD
-http://linux-app.tv:8080/live/kkk/kkk/9748.ts
-#EXTINF:-1,Us- Weather channel
-http://linux-app.tv:8080/live/kkk/kkk/9747.ts
-#EXTINF:-1,Us- WWE HD
-http://linux-app.tv:8080/live/kkk/kkk/9746.ts
+#EXTINF:-1,US: A&E HD
+http://wildsides.xyz:2086/live/madeleine/12345/625.ts
+#EXTINF:-1,US: A&E HD BACKUP
+http://wildsides.xyz:2086/live/madeleine/12345/10206.ts
+#EXTINF:-1,US: ABC HD
+http://wildsides.xyz:2086/live/madeleine/12345/1284.ts
+#EXTINF:-1,US: ABC HD BACKUP
+http://wildsides.xyz:2086/live/madeleine/12345/10210.ts
+#EXTINF:-1,US: ABC 7 NEWS HD (FORT MYERS)
+http://wildsides.xyz:2086/live/madeleine/12345/1852.ts
+#EXTINF:-1,US: ABC NEWS HD
+http://wildsides.xyz:2086/live/madeleine/12345/218.ts
+#EXTINF:-1,US: ADULT SWIM
+http://wildsides.xyz:2086/live/madeleine/12345/2339.ts
+#EXTINF:-1,US: AFN MOVIE HD
+http://wildsides.xyz:2086/live/madeleine/12345/3810.ts
+#EXTINF:-1,US: AFN NEWS HD
+http://wildsides.xyz:2086/live/madeleine/12345/3809.ts
+#EXTINF:-1,US: AFN PRIME ATLANTIC HD
+http://wildsides.xyz:2086/live/madeleine/12345/3808.ts
+#EXTINF:-1,US: AFN PRIME PACIFIC HD
+http://wildsides.xyz:2086/live/madeleine/12345/3807.ts
+#EXTINF:-1,US: AFN PULSE HD
+http://wildsides.xyz:2086/live/madeleine/12345/3806.ts
+#EXTINF:-1,US: AFN SPECTRUM HD
+http://wildsides.xyz:2086/live/madeleine/12345/3805.ts
+#EXTINF:-1,US: AMC HD
+http://wildsides.xyz:2086/live/madeleine/12345/170.ts
+#EXTINF:-1,US: AMC HD BACKUP
+http://wildsides.xyz:2086/live/madeleine/12345/10205.ts
+#EXTINF:-1,US: AMERICAN HEROES CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/400.ts
+#EXTINF:-1,US: ANIMAL PLANET HD
+http://wildsides.xyz:2086/live/madeleine/12345/901.ts
+#EXTINF:-1,US: ATLANTA CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/1808.ts
+#EXTINF:-1,US: AXS TV - OFFLINE
+http://wildsides.xyz:2086/live/madeleine/12345/7971.ts
+#EXTINF:-1,US: BBC AMERICA HD
+http://wildsides.xyz:2086/live/madeleine/12345/2764.ts
+#EXTINF:-1,US: BEACH TV HD (PANAMA CITY)
+http://wildsides.xyz:2086/live/madeleine/12345/2438.ts
+#EXTINF:-1,US: BEACH TV HD (PAWLEYS ISLAND)
+http://wildsides.xyz:2086/live/madeleine/12345/2439.ts
+#EXTINF:-1,US: BET HD
+http://wildsides.xyz:2086/live/madeleine/12345/714.ts
+#EXTINF:-1,US: BET HER HD
+http://wildsides.xyz:2086/live/madeleine/12345/6228.ts
+#EXTINF:-1,US: BOOMERANG
+http://wildsides.xyz:2086/live/madeleine/12345/2750.ts
+#EXTINF:-1,US: BOUNCE TV
+http://wildsides.xyz:2086/live/madeleine/12345/2786.ts
+#EXTINF:-1,US: BRAVO HD
+http://wildsides.xyz:2086/live/madeleine/12345/1299.ts
+#EXTINF:-1,US: BUZZR
+http://wildsides.xyz:2086/live/madeleine/12345/1386.ts
+#EXTINF:-1,US: C-SPAN 1
+http://wildsides.xyz:2086/live/madeleine/12345/2335.ts
+#EXTINF:-1,US: C-SPAN 2
+http://wildsides.xyz:2086/live/madeleine/12345/313.ts
+#EXTINF:-1,US: C-SPAN 3
+http://wildsides.xyz:2086/live/madeleine/12345/635.ts
+#EXTINF:-1,US: CARTOON NETWORK HD
+http://wildsides.xyz:2086/live/madeleine/12345/952.ts
+#EXTINF:-1,US: CATHOLIC TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/9778.ts
+#EXTINF:-1,US: CBS EAST HD
+http://wildsides.xyz:2086/live/madeleine/12345/1642.ts
+#EXTINF:-1,US: CBS NEWS HD
+http://wildsides.xyz:2086/live/madeleine/12345/1311.ts
+#EXTINF:-1,US: CINEMAX HD
+http://wildsides.xyz:2086/live/madeleine/12345/677.ts
+#EXTINF:-1,US: CINEMAX II HD
+http://wildsides.xyz:2086/live/madeleine/12345/902.ts
+#EXTINF:-1,US: CINEMAX III HD
+http://wildsides.xyz:2086/live/madeleine/12345/10212.ts
+#EXTINF:-1,US: CLASSIC TV 4U HD
+http://wildsides.xyz:2086/live/madeleine/12345/8473.ts
+#EXTINF:-1,US: CMT HD
+http://wildsides.xyz:2086/live/madeleine/12345/1599.ts
+#EXTINF:-1,US: CMT HD BACKUP
+http://wildsides.xyz:2086/live/madeleine/12345/10215.ts
+#EXTINF:-1,US: CNBC HD
+http://wildsides.xyz:2086/live/madeleine/12345/809.ts
+#EXTINF:-1,US: CNN HD
+http://wildsides.xyz:2086/live/madeleine/12345/327.ts
+#EXTINF:-1,US: CNN HD BACKUP
+http://wildsides.xyz:2086/live/madeleine/12345/10207.ts
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://wildsides.xyz:2086/live/madeleine/12345/802.ts
+#EXTINF:-1,US: COMET TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/3956.ts
+#EXTINF:-1,US: COOKING CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/181.ts
+#EXTINF:-1,US: CORNERSTONE TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/9742.ts
+#EXTINF:-1,US: COUNTRY NETWORK HD
+http://wildsides.xyz:2086/live/madeleine/12345/1740.ts
+#EXTINF:-1,US: COZI TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/8437.ts
+#EXTINF:-1,US: CW CENTRAL PA HD
+http://wildsides.xyz:2086/live/madeleine/12345/1809.ts
+#EXTINF:-1,US: DAYSTAR HD
+http://wildsides.xyz:2086/live/madeleine/12345/381.ts
+#EXTINF:-1,US: DESTINATION AMERICA HD
+http://wildsides.xyz:2086/live/madeleine/12345/401.ts
+#EXTINF:-1,US: DISCOVERY CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/1071.ts
+#EXTINF:-1,US: DISCOVERY SCIENCE HD
+http://wildsides.xyz:2086/live/madeleine/12345/384.ts
+#EXTINF:-1,US: DISNEY CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/991.ts
+#EXTINF:-1,US: DISNEY JR HD
+http://wildsides.xyz:2086/live/madeleine/12345/972.ts
+#EXTINF:-1,US: DISNEY XD HD
+http://wildsides.xyz:2086/live/madeleine/12345/846.ts
+#EXTINF:-1,US: DIY NETWORK
+http://wildsides.xyz:2086/live/madeleine/12345/777.ts
+#EXTINF:-1,US: DKN NETWORK
+http://wildsides.xyz:2086/live/madeleine/12345/2437.ts
+#EXTINF:-1,US: E! HD
+http://wildsides.xyz:2086/live/madeleine/12345/420.ts
+#EXTINF:-1,US: EL REY HD
+http://wildsides.xyz:2086/live/madeleine/12345/1850.ts
+#EXTINF:-1,US: ENCORE WESTERNS
+http://wildsides.xyz:2086/live/madeleine/12345/8054.ts
+#EXTINF:-1,US: EPIX HD
+http://wildsides.xyz:2086/live/madeleine/12345/853.ts
+#EXTINF:-1,US: EPIX 2 HD
+http://wildsides.xyz:2086/live/madeleine/12345/10204.ts
+#EXTINF:-1,US: FAITH & LIFE HD
+http://wildsides.xyz:2086/live/madeleine/12345/2007.ts
+#EXTINF:-1,US: FLORIDA DAYTONA BEACH CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2498.ts
+#EXTINF:-1,US: FLORIDA HOLIDAY INN POOL CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2493.ts
+#EXTINF:-1,US: FOOD NETWORK HD
+http://wildsides.xyz:2086/live/madeleine/12345/1026.ts
+#EXTINF:-1,US: FOX 4 HD
+http://wildsides.xyz:2086/live/madeleine/12345/10208.ts
+#EXTINF:-1,US: FOX 5 HD
+http://wildsides.xyz:2086/live/madeleine/12345/1484.ts
+#EXTINF:-1,US: FOX 29 HD
+http://wildsides.xyz:2086/live/madeleine/12345/10220.ts
+#EXTINF:-1,US: FOX 2 NEWS (DETROIT)
+http://wildsides.xyz:2086/live/madeleine/12345/2630.ts
+#EXTINF:-1,US: FOX 5 NEWS (SAN DIEGO)
+http://wildsides.xyz:2086/live/madeleine/12345/2632.ts
+#EXTINF:-1,US: FOX 5 NEWS (WASHINGTON DC)
+http://wildsides.xyz:2086/live/madeleine/12345/1836.ts
+#EXTINF:-1,US: FOX BUSINESS HD
+http://wildsides.xyz:2086/live/madeleine/12345/863.ts
+#EXTINF:-1,US: FOX NEWS HD
+http://wildsides.xyz:2086/live/madeleine/12345/354.ts
+#EXTINF:-1,US: FRANCE 24 NEWS HD
+http://wildsides.xyz:2086/live/madeleine/12345/2055.ts
+#EXTINF:-1,US: FREEFORM HD
+http://wildsides.xyz:2086/live/madeleine/12345/854.ts
+#EXTINF:-1,US: FUSE HD
+http://wildsides.xyz:2086/live/madeleine/12345/2475.ts
+#EXTINF:-1,US: FUSION TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/8481.ts
+#EXTINF:-1,US: FX HD
+http://wildsides.xyz:2086/live/madeleine/12345/382.ts
+#EXTINF:-1,US: FXM HD
+http://wildsides.xyz:2086/live/madeleine/12345/1478.ts
+#EXTINF:-1,US: FXX HD
+http://wildsides.xyz:2086/live/madeleine/12345/811.ts
+#EXTINF:-1,US: GOD TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/9773.ts
+#EXTINF:-1,US: GRIT TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/2392.ts
+#EXTINF:-1,US: GSN HD
+http://wildsides.xyz:2086/live/madeleine/12345/372.ts
+#EXTINF:-1,US: HALLMARK HD
+http://wildsides.xyz:2086/live/madeleine/12345/1598.ts
+#EXTINF:-1,US: HALLMARK M&M HD
+http://wildsides.xyz:2086/live/madeleine/12345/328.ts
+#EXTINF:-1,US: HBO HD
+http://wildsides.xyz:2086/live/madeleine/12345/829.ts
+#EXTINF:-1,US: HBO COMEDY HD
+http://wildsides.xyz:2086/live/madeleine/12345/695.ts
+#EXTINF:-1,US: HBO SIGNATURE HD
+http://wildsides.xyz:2086/live/madeleine/12345/1187.ts
+#EXTINF:-1,US: HBO ZONE HD
+http://wildsides.xyz:2086/live/madeleine/12345/1301.ts
+#EXTINF:-1,US: HDNET MOVIES HD
+http://wildsides.xyz:2086/live/madeleine/12345/2476.ts
+#EXTINF:-1,US: HGTV HD
+http://wildsides.xyz:2086/live/madeleine/12345/417.ts
+#EXTINF:-1,US: HISTORY CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/191.ts
+#EXTINF:-1,US: HLN HD
+http://wildsides.xyz:2086/live/madeleine/12345/698.ts
+#EXTINF:-1,US: HOGS BREATH STAGE CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2492.ts
+#EXTINF:-1,US: HUNT CHANNEL
+http://wildsides.xyz:2086/live/madeleine/12345/8497.ts
+#EXTINF:-1,US: IFC HD
+http://wildsides.xyz:2086/live/madeleine/12345/10213.ts
+#EXTINF:-1,US: INVESTIGATION DISCOVERY HD
+http://wildsides.xyz:2086/live/madeleine/12345/176.ts
+#EXTINF:-1,US: ION TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/2337.ts
+#EXTINF:-1,US: KEY TV HD (KEY WEST)
+http://wildsides.xyz:2086/live/madeleine/12345/2436.ts
+#EXTINF:-1,US: LAS VEGAS NEVADA CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2504.ts
+#EXTINF:-1,US: LIFETIME HD
+http://wildsides.xyz:2086/live/madeleine/12345/1559.ts
+#EXTINF:-1,US: LIFETIME MOVIE NETWORK HD
+http://wildsides.xyz:2086/live/madeleine/12345/2477.ts
+#EXTINF:-1,US: ME TV
+http://wildsides.xyz:2086/live/madeleine/12345/3376.ts
+#EXTINF:-1,US: MOVEE 4U
+http://wildsides.xyz:2086/live/madeleine/12345/8474.ts
+#EXTINF:-1,US: MSNBC HD
+http://wildsides.xyz:2086/live/madeleine/12345/216.ts
+#EXTINF:-1,US: MSNBC DIRECT HD
+http://wildsides.xyz:2086/live/madeleine/12345/10202.ts
+#EXTINF:-1,US: MTV HD
+http://wildsides.xyz:2086/live/madeleine/12345/982.ts
+#EXTINF:-1,US: MTV 2 HD
+http://wildsides.xyz:2086/live/madeleine/12345/9258.ts
+#EXTINF:-1,US: MTV LIVE HD
+http://wildsides.xyz:2086/live/madeleine/12345/2920.ts
+#EXTINF:-1,US: NAT GEO CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/334.ts
+#EXTINF:-1,US: NAT GEO WILD HD
+http://wildsides.xyz:2086/live/madeleine/12345/190.ts
+#EXTINF:-1,US: NBC 13 NEWS (ALBANY)
+http://wildsides.xyz:2086/live/madeleine/12345/968.ts
+#EXTINF:-1,US: NBC 36 NEWS HD (AUSTIN)
+http://wildsides.xyz:2086/live/madeleine/12345/1837.ts
+#EXTINF:-1,US: NBC EAST HD
+http://wildsides.xyz:2086/live/madeleine/12345/781.ts
+#EXTINF:-1,US: NBC EAST II HD
+http://wildsides.xyz:2086/live/madeleine/12345/1851.ts
+#EXTINF:-1,US: NBC WPTZ
+http://wildsides.xyz:2086/live/madeleine/12345/8094.ts
+#EXTINF:-1,US: NEW ORLEANS HD TV
+http://wildsides.xyz:2086/live/madeleine/12345/8496.ts
+#EXTINF:-1,US: NEW ORLEANS CATS MEOW CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2508.ts
+#EXTINF:-1,US: NEW YORK NIAGARA FALLS CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2497.ts
+#EXTINF:-1,US: NICK JR HD
+http://wildsides.xyz:2086/live/madeleine/12345/975.ts
+#EXTINF:-1,US: NICKTOONS
+http://wildsides.xyz:2086/live/madeleine/12345/4029.ts
+#EXTINF:-1,US: NYC STREET CAM
+http://wildsides.xyz:2086/live/madeleine/12345/9719.ts
+#EXTINF:-1,US: NYC WALL STREET CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2514.ts
+#EXTINF:-1,US: ONE AMERICA NEWS
+http://wildsides.xyz:2086/live/madeleine/12345/9714.ts
+#EXTINF:-1,US: OUTDOOR CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/1560.ts
+#EXTINF:-1,US: OWN HD
+http://wildsides.xyz:2086/live/madeleine/12345/1069.ts
+#EXTINF:-1,US: OXYGEN
+http://wildsides.xyz:2086/live/madeleine/12345/1304.ts
+#EXTINF:-1,US: PARAMOUNT NETWORK HD
+http://wildsides.xyz:2086/live/madeleine/12345/709.ts
+#EXTINF:-1,US: PBS KIDS HD
+http://wildsides.xyz:2086/live/madeleine/12345/9718.ts
+#EXTINF:-1,US: PBS VERMONT HD
+http://wildsides.xyz:2086/live/madeleine/12345/8095.ts
+#EXTINF:-1,US: PHL 17 HD
+http://wildsides.xyz:2086/live/madeleine/12345/8493.ts
+#EXTINF:-1,US: PLUTO TV HEADLINES
+http://wildsides.xyz:2086/live/madeleine/12345/3707.ts
+#EXTINF:-1,US: POP TV
+http://wildsides.xyz:2086/live/madeleine/12345/3669.ts
+#EXTINF:-1,US: PURSUIT HD
+http://wildsides.xyz:2086/live/madeleine/12345/976.ts
+#EXTINF:-1,US: QVC
+http://wildsides.xyz:2086/live/madeleine/12345/184.ts
+#EXTINF:-1,US: RADIO U HD
+http://wildsides.xyz:2086/live/madeleine/12345/10036.ts
+#EXTINF:-1,US: REALLY TV
+http://wildsides.xyz:2086/live/madeleine/12345/2398.ts
+#EXTINF:-1,US: REELZ HD
+http://wildsides.xyz:2086/live/madeleine/12345/1136.ts
+#EXTINF:-1,US: SAN FRANCISCO BAY CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2527.ts
+#EXTINF:-1,US: SHOWTIME HD
+http://wildsides.xyz:2086/live/madeleine/12345/1448.ts
+#EXTINF:-1,US: SHOWTIME SHOWCASE HD
+http://wildsides.xyz:2086/live/madeleine/12345/1561.ts
+#EXTINF:-1,US: SLOPPY JOE'S STAGE CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2491.ts
+#EXTINF:-1,US: SMITHSONIAN CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/3045.ts
+#EXTINF:-1,US: SONY MOVIE CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/8482.ts
+#EXTINF:-1,US: SOUTH CAROLINA MYRTLE BEACH CAM
+http://wildsides.xyz:2086/live/madeleine/12345/2499.ts
+#EXTINF:-1,US: SPIRIT TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/9743.ts
+#EXTINF:-1,US: STARZ CINEMA HD
+http://wildsides.xyz:2086/live/madeleine/12345/6566.ts
+#EXTINF:-1,US: STARZ COMEDY HD
+http://wildsides.xyz:2086/live/madeleine/12345/6567.ts
+#EXTINF:-1,US: STARZ EAST HD
+http://wildsides.xyz:2086/live/madeleine/12345/6565.ts
+#EXTINF:-1,US: STARZ EDGE HD
+http://wildsides.xyz:2086/live/madeleine/12345/6568.ts
+#EXTINF:-1,US: STARZ ENCORE HD
+http://wildsides.xyz:2086/live/madeleine/12345/6564.ts
+#EXTINF:-1,US: STARZ ENCORE BLACK
+http://wildsides.xyz:2086/live/madeleine/12345/6569.ts
+#EXTINF:-1,US: STARZ KIDS AND FAMILY HD
+http://wildsides.xyz:2086/live/madeleine/12345/6563.ts
+#EXTINF:-1,US: SUNDANCE HD
+http://wildsides.xyz:2086/live/madeleine/12345/1485.ts
+#EXTINF:-1,US: SYFY HD
+http://wildsides.xyz:2086/live/madeleine/12345/803.ts
+#EXTINF:-1,US: TBN HD
+http://wildsides.xyz:2086/live/madeleine/12345/6871.ts
+#EXTINF:-1,US: TBS SUPERSTATION HD
+http://wildsides.xyz:2086/live/madeleine/12345/387.ts
+#EXTINF:-1,US: THE BLAZE HD
+http://wildsides.xyz:2086/live/madeleine/12345/2465.ts
+#EXTINF:-1,US: THE CW HD
+http://wildsides.xyz:2086/live/madeleine/12345/987.ts
+#EXTINF:-1,US: THE DOVE TV
+http://wildsides.xyz:2086/live/madeleine/12345/9774.ts
+#EXTINF:-1,US: THE SPORTSMAN CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/3044.ts
+#EXTINF:-1,US: THE WORD NETWORK
+http://wildsides.xyz:2086/live/madeleine/12345/9772.ts
+#EXTINF:-1,US: TLC HD
+http://wildsides.xyz:2086/live/madeleine/12345/703.ts
+#EXTINF:-1,US: TNT HD
+http://wildsides.xyz:2086/live/madeleine/12345/339.ts
+#EXTINF:-1,US: TRAVEL CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/1510.ts
+#EXTINF:-1,US: TRT WORLD HD
+http://wildsides.xyz:2086/live/madeleine/12345/2057.ts
+#EXTINF:-1,US: TRU TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/860.ts
+#EXTINF:-1,US: TUFF TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/1738.ts
+#EXTINF:-1,US: TV LAND HD
+http://wildsides.xyz:2086/live/madeleine/12345/393.ts
+#EXTINF:-1,US: TV ONE HD
+http://wildsides.xyz:2086/live/madeleine/12345/2478.ts
+#EXTINF:-1,US: UNIVERSAL CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/2417.ts
+#EXTINF:-1,US: UNIVERSAL KIDS HD
+http://wildsides.xyz:2086/live/madeleine/12345/3458.ts
+#EXTINF:-1,US: USA NETWORK HD
+http://wildsides.xyz:2086/live/madeleine/12345/229.ts
+#EXTINF:-1,US: VELOCITY HD
+http://wildsides.xyz:2086/live/madeleine/12345/719.ts
+#EXTINF:-1,US: VH1 HD
+http://wildsides.xyz:2086/live/madeleine/12345/801.ts
+#EXTINF:-1,US: VICELAND HD
+http://wildsides.xyz:2086/live/madeleine/12345/861.ts
+#EXTINF:-1,US: VTV HD (UTAH)
+http://wildsides.xyz:2086/live/madeleine/12345/1873.ts
+#EXTINF:-1,US: WE TV HD
+http://wildsides.xyz:2086/live/madeleine/12345/10209.ts
+#EXTINF:-1,US: WEATHER CHANNEL HD
+http://wildsides.xyz:2086/live/madeleine/12345/385.ts
+#EXTINF:-1,US: WESTERNS 4U HD
+http://wildsides.xyz:2086/live/madeleine/12345/8472.ts
+#EXTINF:-1,US: WGN 9 NEWS HD (CHICAGO)
+http://wildsides.xyz:2086/live/madeleine/12345/341.ts
+#EXTINF:-1,US: WGN AMERICA HD
+http://wildsides.xyz:2086/live/madeleine/12345/2588.ts
+#EXTINF:-1,US: WVIT 30 NEWS (CONNECTICUT)
+http://wildsides.xyz:2086/live/madeleine/12345/2523.ts
+#EXTINF:-1,US: WWE NETWORK HD
+http://wildsides.xyz:2086/live/madeleine/12345/10221.ts
+#EXTINF:-1,US: EPIX DRIVE-IN HD TEST
+http://wildsides.xyz:2086/live/madeleine/12345/10216.ts
+#EXTINF:-1,US: FASHION HD TEST
+http://wildsides.xyz:2086/live/madeleine/12345/10034.ts
